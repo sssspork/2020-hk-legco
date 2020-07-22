@@ -1,0 +1,2733 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<legcohk-vote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/schema/legcohk-vote-schema.xsd">
+  <meeting start-date="24/05/2017" type="Council Meeting">
+    <vote number="1">
+      <vote-date>24/05/2017</vote-date>
+      <vote-time>13:40:48</vote-time>
+      <motion-ch>《私營骨灰安置所條例草案》 - 全體委員會審議階段 - 第1、3至7、9、10、13、14、16、17、18、21至24、28、30至37、40、42至45、47至50、56、58至65、67至70、73、74、76至81及83至130條納入條例草案</motion-ch>
+      <motion-en>PRIVATE COLUMBARIA BILL - COMMITTEE STAGE - CLAUSES 1, 3 TO 7, 9, 10, 13, 14, 16, 17, 18, 21 TO 24, 28, 30 TO 37, 40, 42 TO 45, 47 TO 50, 56, 58 TO 65, 67 TO 70, 73, 74, 76 TO 81 AND 83 TO 130 STAND PART OF THE BILL</motion-en>
+      <mover-ch>食物及衞生局局長</mover-ch>
+      <mover-en>Secretary for Food and Health</mover-en>
+      <mover-type>Public Officer</mover-type>
+      <vote-separate-mechanism>No</vote-separate-mechanism>
+      <vote-summary>
+        <overall>
+          <present-count>36</present-count>
+          <vote-count>35</vote-count>
+          <yes-count>34</yes-count>
+          <no-count>1</no-count>
+          <abstain-count>0</abstain-count>
+          <result>Passed</result>
+        </overall>
+      </vote-summary>
+      <individual-votes>
+        <member name-ch="李慧琼" name-en="Starry LEE" constituency="Functional">
+          <vote>Present</vote>
+        </member>
+        <member name-ch="梁君彥" name-en="Andrew LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="涂謹申" name-en="James TO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁耀忠" name-en="LEUNG Yiu-chung" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="石禮謙" name-en="Abraham SHEK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張宇人" name-en="Tommy CHEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="李國麟" name-en="Prof Joseph LEE" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="林健鋒" name-en="Jeffrey LAM" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="黃定光" name-en="WONG Ting-kwong" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳克勤" name-en="CHAN Hak-kan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳健波" name-en="CHAN Kin-por" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁美芬" name-en="Dr Priscilla LEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃國健" name-en="WONG Kwok-kin" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葉劉淑儀" name-en="Mrs Regina IP" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="謝偉俊" name-en="Paul TSE" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁國雄" name-en="LEUNG Kwok-hung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="毛孟靜" name-en="Claudia MO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="田北辰" name-en="Michael TIEN" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="何俊賢" name-en="Steven HO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="易志明" name-en="Frankie YICK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="胡志偉" name-en="WU Chi-wai" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="姚思榮" name-en="YIU Si-wing" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="馬逢國" name-en="MA Fung-kwok" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="莫乃光" name-en="Charles Peter MOK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳志全" name-en="CHAN Chi-chuen" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳恒鑌" name-en="CHAN Han-pan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁志祥" name-en="LEUNG Che-cheung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁繼昌" name-en="Kenneth LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="麥美娟" name-en="Alice MAK" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭家麒" name-en="Dr KWOK Ka-ki" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="郭偉强" name-en="KWOK Wai-keung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭榮鏗" name-en="Dennis KWOK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張華峰" name-en="Christopher CHEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張超雄" name-en="Dr Fernando CHEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃碧雲" name-en="Dr Helena WONG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葉建源" name-en="IP Kin-yuen" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葛珮帆" name-en="Dr Elizabeth QUAT" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="廖長江" name-en="Martin LIAO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="潘兆平" name-en="POON Siu-ping" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="蔣麗芸" name-en="Dr CHIANG Lai-wan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="盧偉國" name-en="Ir Dr LO Wai-kwok" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="鍾國斌" name-en="CHUNG Kwok-pan" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="楊岳橋" name-en="Alvin YEUNG" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="尹兆堅" name-en="Andrew WAN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="朱凱廸" name-en="CHU Hoi-dick" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="吳永嘉" name-en="Jimmy NG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何君堯" name-en="Dr Junius HO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何啟明" name-en="HO Kai-ming" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="林卓廷" name-en="LAM Cheuk-ting" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="周浩鼎" name-en="Holden CHOW" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家輝" name-en="SHIU Ka-fai" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="邵家臻" name-en="SHIU Ka-chun" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="柯創盛" name-en="Wilson OR" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="容海恩" name-en="YUNG Hoi-yan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳沛然" name-en="Dr Pierre CHAN" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳振英" name-en="CHAN Chun-ying" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳淑莊" name-en="Tanya CHAN" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張國鈞" name-en="CHEUNG Kwok-kwan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="許智峯" name-en="HUI Chi-fung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陸頌雄" name-en="LUK Chung-hung" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉國勳" name-en="LAU Kwok-fan" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉業強" name-en="Kenneth LAU" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄭松泰" name-en="Dr CHENG Chung-tai" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="鄺俊宇" name-en="KWONG Chun-yu" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="譚文豪" name-en="Jeremy TAM" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="羅冠聰" name-en="Nathan LAW" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚松炎" name-en="Dr YIU Chung-yim" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉小麗" name-en="Dr LAU Siu-lai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+      </individual-votes>
+    </vote>
+    <vote number="2">
+      <vote-date>24/05/2017</vote-date>
+      <vote-time>14:00:30</vote-time>
+      <motion-ch>《私營骨灰安置所條例草案》 - 全體委員會審議階段 - 食物及衞生局局長的修正案 - 第2、8、11、12、15、19、20、25、26、27、29、38、39、41、46、51至55、57、66、71、72、75、82及131條</motion-ch>
+      <motion-en>PRIVATE COLUMBARIA BILL - COMMITTEE STAGE - SECRETARY FOR FOOD AND HEALTH’S AMENDMENTS - CLAUSES 2, 8, 11, 12, 15, 19, 20, 25, 26, 27, 29, 38, 39, 41, 46, 51 TO 55, 57, 66, 71, 72, 75, 82 AND 131</motion-en>
+      <mover-ch>食物及衞生局局長</mover-ch>
+      <mover-en>Secretary for Food and Health</mover-en>
+      <mover-type>Public Officer</mover-type>
+      <vote-separate-mechanism>No</vote-separate-mechanism>
+      <vote-summary>
+        <overall>
+          <present-count>36</present-count>
+          <vote-count>35</vote-count>
+          <yes-count>35</yes-count>
+          <no-count>0</no-count>
+          <abstain-count>0</abstain-count>
+          <result>Passed</result>
+        </overall>
+      </vote-summary>
+      <individual-votes>
+        <member name-ch="李慧琼" name-en="Starry LEE" constituency="Functional">
+          <vote>Present</vote>
+        </member>
+        <member name-ch="梁君彥" name-en="Andrew LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="涂謹申" name-en="James TO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁耀忠" name-en="LEUNG Yiu-chung" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="石禮謙" name-en="Abraham SHEK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張宇人" name-en="Tommy CHEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="李國麟" name-en="Prof Joseph LEE" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="林健鋒" name-en="Jeffrey LAM" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="黃定光" name-en="WONG Ting-kwong" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳克勤" name-en="CHAN Hak-kan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳健波" name-en="CHAN Kin-por" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁美芬" name-en="Dr Priscilla LEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃國健" name-en="WONG Kwok-kin" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葉劉淑儀" name-en="Mrs Regina IP" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="謝偉俊" name-en="Paul TSE" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁國雄" name-en="LEUNG Kwok-hung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="毛孟靜" name-en="Claudia MO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="田北辰" name-en="Michael TIEN" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="何俊賢" name-en="Steven HO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="易志明" name-en="Frankie YICK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="胡志偉" name-en="WU Chi-wai" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="姚思榮" name-en="YIU Si-wing" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="馬逢國" name-en="MA Fung-kwok" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="莫乃光" name-en="Charles Peter MOK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳志全" name-en="CHAN Chi-chuen" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳恒鑌" name-en="CHAN Han-pan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁志祥" name-en="LEUNG Che-cheung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁繼昌" name-en="Kenneth LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="麥美娟" name-en="Alice MAK" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭家麒" name-en="Dr KWOK Ka-ki" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="郭偉强" name-en="KWOK Wai-keung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭榮鏗" name-en="Dennis KWOK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張華峰" name-en="Christopher CHEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張超雄" name-en="Dr Fernando CHEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃碧雲" name-en="Dr Helena WONG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葉建源" name-en="IP Kin-yuen" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葛珮帆" name-en="Dr Elizabeth QUAT" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="廖長江" name-en="Martin LIAO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="潘兆平" name-en="POON Siu-ping" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="蔣麗芸" name-en="Dr CHIANG Lai-wan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="盧偉國" name-en="Ir Dr LO Wai-kwok" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="鍾國斌" name-en="CHUNG Kwok-pan" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="楊岳橋" name-en="Alvin YEUNG" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="尹兆堅" name-en="Andrew WAN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="朱凱廸" name-en="CHU Hoi-dick" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="吳永嘉" name-en="Jimmy NG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="何君堯" name-en="Dr Junius HO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何啟明" name-en="HO Kai-ming" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="林卓廷" name-en="LAM Cheuk-ting" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="周浩鼎" name-en="Holden CHOW" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家輝" name-en="SHIU Ka-fai" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="邵家臻" name-en="SHIU Ka-chun" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="柯創盛" name-en="Wilson OR" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="容海恩" name-en="YUNG Hoi-yan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳沛然" name-en="Dr Pierre CHAN" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳振英" name-en="CHAN Chun-ying" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳淑莊" name-en="Tanya CHAN" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張國鈞" name-en="CHEUNG Kwok-kwan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="許智峯" name-en="HUI Chi-fung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陸頌雄" name-en="LUK Chung-hung" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉國勳" name-en="LAU Kwok-fan" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉業強" name-en="Kenneth LAU" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="鄭松泰" name-en="Dr CHENG Chung-tai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄺俊宇" name-en="KWONG Chun-yu" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="譚文豪" name-en="Jeremy TAM" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="羅冠聰" name-en="Nathan LAW" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚松炎" name-en="Dr YIU Chung-yim" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉小麗" name-en="Dr LAU Siu-lai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+      </individual-votes>
+    </vote>
+    <vote number="3">
+      <vote-date>24/05/2017</vote-date>
+      <vote-time>14:17:51</vote-time>
+      <motion-ch>《私營骨灰安置所條例草案》 - 全體委員會審議階段 - 經修正的第2、8、11、12、15、19、20、25、26、27、29、38、39、41、46、51至55、57、66、71、72、75、82及131條納入條例草案</motion-ch>
+      <motion-en>PRIVATE COLUMBARIA BILL - COMMITTEE STAGE - CLAUSES 2, 8, 11, 12, 15, 19, 20, 25, 26, 27, 29, 38, 39, 41, 46, 51 TO 55, 57, 66, 71, 72, 75, 82 AND 131 AS AMENDED STAND PART OF THE BILL</motion-en>
+      <mover-ch>食物及衞生局局長</mover-ch>
+      <mover-en>Secretary for Food and Health</mover-en>
+      <mover-type>Public Officer</mover-type>
+      <vote-separate-mechanism>No</vote-separate-mechanism>
+      <vote-summary>
+        <overall>
+          <present-count>40</present-count>
+          <vote-count>39</vote-count>
+          <yes-count>38</yes-count>
+          <no-count>1</no-count>
+          <abstain-count>0</abstain-count>
+          <result>Passed</result>
+        </overall>
+      </vote-summary>
+      <individual-votes>
+        <member name-ch="李慧琼" name-en="Starry LEE" constituency="Functional">
+          <vote>Present</vote>
+        </member>
+        <member name-ch="梁君彥" name-en="Andrew LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="涂謹申" name-en="James TO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁耀忠" name-en="LEUNG Yiu-chung" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="石禮謙" name-en="Abraham SHEK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張宇人" name-en="Tommy CHEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="李國麟" name-en="Prof Joseph LEE" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="林健鋒" name-en="Jeffrey LAM" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="黃定光" name-en="WONG Ting-kwong" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳克勤" name-en="CHAN Hak-kan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳健波" name-en="CHAN Kin-por" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁美芬" name-en="Dr Priscilla LEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃國健" name-en="WONG Kwok-kin" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葉劉淑儀" name-en="Mrs Regina IP" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="謝偉俊" name-en="Paul TSE" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁國雄" name-en="LEUNG Kwok-hung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="毛孟靜" name-en="Claudia MO" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="田北辰" name-en="Michael TIEN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何俊賢" name-en="Steven HO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="易志明" name-en="Frankie YICK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="胡志偉" name-en="WU Chi-wai" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="姚思榮" name-en="YIU Si-wing" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="馬逢國" name-en="MA Fung-kwok" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="莫乃光" name-en="Charles Peter MOK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳志全" name-en="CHAN Chi-chuen" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳恒鑌" name-en="CHAN Han-pan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁志祥" name-en="LEUNG Che-cheung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁繼昌" name-en="Kenneth LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="麥美娟" name-en="Alice MAK" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭家麒" name-en="Dr KWOK Ka-ki" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭偉强" name-en="KWOK Wai-keung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭榮鏗" name-en="Dennis KWOK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張華峰" name-en="Christopher CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張超雄" name-en="Dr Fernando CHEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃碧雲" name-en="Dr Helena WONG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葉建源" name-en="IP Kin-yuen" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葛珮帆" name-en="Dr Elizabeth QUAT" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="廖長江" name-en="Martin LIAO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="潘兆平" name-en="POON Siu-ping" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="蔣麗芸" name-en="Dr CHIANG Lai-wan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="盧偉國" name-en="Ir Dr LO Wai-kwok" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="鍾國斌" name-en="CHUNG Kwok-pan" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="楊岳橋" name-en="Alvin YEUNG" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="尹兆堅" name-en="Andrew WAN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="朱凱廸" name-en="CHU Hoi-dick" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="吳永嘉" name-en="Jimmy NG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何君堯" name-en="Dr Junius HO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何啟明" name-en="HO Kai-ming" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="林卓廷" name-en="LAM Cheuk-ting" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="周浩鼎" name-en="Holden CHOW" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="邵家輝" name-en="SHIU Ka-fai" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家臻" name-en="SHIU Ka-chun" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="柯創盛" name-en="Wilson OR" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="容海恩" name-en="YUNG Hoi-yan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳沛然" name-en="Dr Pierre CHAN" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳振英" name-en="CHAN Chun-ying" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳淑莊" name-en="Tanya CHAN" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張國鈞" name-en="CHEUNG Kwok-kwan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="許智峯" name-en="HUI Chi-fung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陸頌雄" name-en="LUK Chung-hung" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉國勳" name-en="LAU Kwok-fan" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉業強" name-en="Kenneth LAU" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄭松泰" name-en="Dr CHENG Chung-tai" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="鄺俊宇" name-en="KWONG Chun-yu" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="譚文豪" name-en="Jeremy TAM" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="羅冠聰" name-en="Nathan LAW" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚松炎" name-en="Dr YIU Chung-yim" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉小麗" name-en="Dr LAU Siu-lai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+      </individual-votes>
+    </vote>
+    <vote number="4">
+      <vote-date>24/05/2017</vote-date>
+      <vote-time>14:26:45</vote-time>
+      <motion-ch>《私營骨灰安置所條例草案》 - 全體委員會審議階段 - 食物及衞生局局長的修正案 - 新訂的第15A及40A條，予以二讀</motion-ch>
+      <motion-en>PRIVATE COLUMBARIA BILL - COMMITTEE STAGE - SECRETARY FOR FOOD AND HEALTH’S AMENDMENTS - NEW CLAUSES 15A AND 40A BE READ THE SECOND TIME</motion-en>
+      <mover-ch>食物及衞生局局長</mover-ch>
+      <mover-en>Secretary for Food and Health</mover-en>
+      <mover-type>Public Officer</mover-type>
+      <vote-separate-mechanism>No</vote-separate-mechanism>
+      <vote-summary>
+        <overall>
+          <present-count>37</present-count>
+          <vote-count>36</vote-count>
+          <yes-count>35</yes-count>
+          <no-count>1</no-count>
+          <abstain-count>0</abstain-count>
+          <result>Passed</result>
+        </overall>
+      </vote-summary>
+      <individual-votes>
+        <member name-ch="李慧琼" name-en="Starry LEE" constituency="Functional">
+          <vote>Present</vote>
+        </member>
+        <member name-ch="梁君彥" name-en="Andrew LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="涂謹申" name-en="James TO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁耀忠" name-en="LEUNG Yiu-chung" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="石禮謙" name-en="Abraham SHEK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張宇人" name-en="Tommy CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="李國麟" name-en="Prof Joseph LEE" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="林健鋒" name-en="Jeffrey LAM" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="黃定光" name-en="WONG Ting-kwong" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳克勤" name-en="CHAN Hak-kan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳健波" name-en="CHAN Kin-por" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁美芬" name-en="Dr Priscilla LEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃國健" name-en="WONG Kwok-kin" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葉劉淑儀" name-en="Mrs Regina IP" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="謝偉俊" name-en="Paul TSE" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁國雄" name-en="LEUNG Kwok-hung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="毛孟靜" name-en="Claudia MO" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="田北辰" name-en="Michael TIEN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何俊賢" name-en="Steven HO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="易志明" name-en="Frankie YICK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="胡志偉" name-en="WU Chi-wai" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="姚思榮" name-en="YIU Si-wing" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="馬逢國" name-en="MA Fung-kwok" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="莫乃光" name-en="Charles Peter MOK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳志全" name-en="CHAN Chi-chuen" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳恒鑌" name-en="CHAN Han-pan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁志祥" name-en="LEUNG Che-cheung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁繼昌" name-en="Kenneth LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="麥美娟" name-en="Alice MAK" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭家麒" name-en="Dr KWOK Ka-ki" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭偉强" name-en="KWOK Wai-keung" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="郭榮鏗" name-en="Dennis KWOK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張華峰" name-en="Christopher CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張超雄" name-en="Dr Fernando CHEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃碧雲" name-en="Dr Helena WONG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葉建源" name-en="IP Kin-yuen" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葛珮帆" name-en="Dr Elizabeth QUAT" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="廖長江" name-en="Martin LIAO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="潘兆平" name-en="POON Siu-ping" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="蔣麗芸" name-en="Dr CHIANG Lai-wan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="盧偉國" name-en="Ir Dr LO Wai-kwok" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="鍾國斌" name-en="CHUNG Kwok-pan" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="楊岳橋" name-en="Alvin YEUNG" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="尹兆堅" name-en="Andrew WAN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="朱凱廸" name-en="CHU Hoi-dick" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="吳永嘉" name-en="Jimmy NG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何君堯" name-en="Dr Junius HO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何啟明" name-en="HO Kai-ming" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="林卓廷" name-en="LAM Cheuk-ting" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="周浩鼎" name-en="Holden CHOW" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家輝" name-en="SHIU Ka-fai" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家臻" name-en="SHIU Ka-chun" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="柯創盛" name-en="Wilson OR" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="容海恩" name-en="YUNG Hoi-yan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳沛然" name-en="Dr Pierre CHAN" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳振英" name-en="CHAN Chun-ying" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳淑莊" name-en="Tanya CHAN" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張國鈞" name-en="CHEUNG Kwok-kwan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="許智峯" name-en="HUI Chi-fung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陸頌雄" name-en="LUK Chung-hung" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉國勳" name-en="LAU Kwok-fan" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉業強" name-en="Kenneth LAU" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄭松泰" name-en="Dr CHENG Chung-tai" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="鄺俊宇" name-en="KWONG Chun-yu" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="譚文豪" name-en="Jeremy TAM" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="羅冠聰" name-en="Nathan LAW" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚松炎" name-en="Dr YIU Chung-yim" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉小麗" name-en="Dr LAU Siu-lai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+      </individual-votes>
+    </vote>
+    <vote number="5">
+      <vote-date>24/05/2017</vote-date>
+      <vote-time>14:32:58</vote-time>
+      <motion-ch>《私營骨灰安置所條例草案》 - 全體委員會審議階段 - 條例草案增補新訂的第15A及40A條</motion-ch>
+      <motion-en>PRIVATE COLUMBARIA BILL - COMMITTEE STAGE - NEW CLAUSES 15A AND 40A BE ADDED TO THE BILL</motion-en>
+      <mover-ch>食物及衞生局局長</mover-ch>
+      <mover-en>Secretary for Food and Health</mover-en>
+      <mover-type>Public Officer</mover-type>
+      <vote-separate-mechanism>No</vote-separate-mechanism>
+      <vote-summary>
+        <overall>
+          <present-count>38</present-count>
+          <vote-count>37</vote-count>
+          <yes-count>36</yes-count>
+          <no-count>1</no-count>
+          <abstain-count>0</abstain-count>
+          <result>Passed</result>
+        </overall>
+      </vote-summary>
+      <individual-votes>
+        <member name-ch="梁君彥" name-en="Andrew LEUNG" constituency="Functional">
+          <vote>Present</vote>
+        </member>
+        <member name-ch="涂謹申" name-en="James TO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁耀忠" name-en="LEUNG Yiu-chung" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="石禮謙" name-en="Abraham SHEK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張宇人" name-en="Tommy CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="李國麟" name-en="Prof Joseph LEE" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="林健鋒" name-en="Jeffrey LAM" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="黃定光" name-en="WONG Ting-kwong" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="李慧琼" name-en="Starry LEE" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳克勤" name-en="CHAN Hak-kan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳健波" name-en="CHAN Kin-por" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁美芬" name-en="Dr Priscilla LEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃國健" name-en="WONG Kwok-kin" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葉劉淑儀" name-en="Mrs Regina IP" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="謝偉俊" name-en="Paul TSE" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁國雄" name-en="LEUNG Kwok-hung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="毛孟靜" name-en="Claudia MO" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="田北辰" name-en="Michael TIEN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何俊賢" name-en="Steven HO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="易志明" name-en="Frankie YICK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="胡志偉" name-en="WU Chi-wai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚思榮" name-en="YIU Si-wing" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="馬逢國" name-en="MA Fung-kwok" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="莫乃光" name-en="Charles Peter MOK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳志全" name-en="CHAN Chi-chuen" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳恒鑌" name-en="CHAN Han-pan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁志祥" name-en="LEUNG Che-cheung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁繼昌" name-en="Kenneth LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="麥美娟" name-en="Alice MAK" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="郭家麒" name-en="Dr KWOK Ka-ki" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭偉强" name-en="KWOK Wai-keung" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="郭榮鏗" name-en="Dennis KWOK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張華峰" name-en="Christopher CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張超雄" name-en="Dr Fernando CHEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃碧雲" name-en="Dr Helena WONG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葉建源" name-en="IP Kin-yuen" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葛珮帆" name-en="Dr Elizabeth QUAT" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="廖長江" name-en="Martin LIAO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="潘兆平" name-en="POON Siu-ping" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="蔣麗芸" name-en="Dr CHIANG Lai-wan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="盧偉國" name-en="Ir Dr LO Wai-kwok" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="鍾國斌" name-en="CHUNG Kwok-pan" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="楊岳橋" name-en="Alvin YEUNG" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="尹兆堅" name-en="Andrew WAN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="朱凱廸" name-en="CHU Hoi-dick" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="吳永嘉" name-en="Jimmy NG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何君堯" name-en="Dr Junius HO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何啟明" name-en="HO Kai-ming" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="林卓廷" name-en="LAM Cheuk-ting" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="周浩鼎" name-en="Holden CHOW" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家輝" name-en="SHIU Ka-fai" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家臻" name-en="SHIU Ka-chun" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="柯創盛" name-en="Wilson OR" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="容海恩" name-en="YUNG Hoi-yan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳沛然" name-en="Dr Pierre CHAN" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳振英" name-en="CHAN Chun-ying" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳淑莊" name-en="Tanya CHAN" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張國鈞" name-en="CHEUNG Kwok-kwan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="許智峯" name-en="HUI Chi-fung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陸頌雄" name-en="LUK Chung-hung" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉國勳" name-en="LAU Kwok-fan" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉業強" name-en="Kenneth LAU" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄭松泰" name-en="Dr CHENG Chung-tai" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="鄺俊宇" name-en="KWONG Chun-yu" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="譚文豪" name-en="Jeremy TAM" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="羅冠聰" name-en="Nathan LAW" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚松炎" name-en="Dr YIU Chung-yim" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉小麗" name-en="Dr LAU Siu-lai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+      </individual-votes>
+    </vote>
+    <vote number="6">
+      <vote-date>24/05/2017</vote-date>
+      <vote-time>14:38:42</vote-time>
+      <motion-ch>《私營骨灰安置所條例草案》 - 全體委員會審議階段 - 附表6納入條例草案</motion-ch>
+      <motion-en>PRIVATE COLUMBARIA BILL - COMMITTEE STAGE - SCHEDULE 6 STAND PART OF THE BILL</motion-en>
+      <mover-ch>食物及衞生局局長</mover-ch>
+      <mover-en>Secretary for Food and Health</mover-en>
+      <mover-type>Public Officer</mover-type>
+      <vote-separate-mechanism>No</vote-separate-mechanism>
+      <vote-summary>
+        <overall>
+          <present-count>37</present-count>
+          <vote-count>36</vote-count>
+          <yes-count>35</yes-count>
+          <no-count>1</no-count>
+          <abstain-count>0</abstain-count>
+          <result>Passed</result>
+        </overall>
+      </vote-summary>
+      <individual-votes>
+        <member name-ch="梁君彥" name-en="Andrew LEUNG" constituency="Functional">
+          <vote>Present</vote>
+        </member>
+        <member name-ch="涂謹申" name-en="James TO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁耀忠" name-en="LEUNG Yiu-chung" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="石禮謙" name-en="Abraham SHEK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張宇人" name-en="Tommy CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="李國麟" name-en="Prof Joseph LEE" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="林健鋒" name-en="Jeffrey LAM" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="黃定光" name-en="WONG Ting-kwong" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="李慧琼" name-en="Starry LEE" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳克勤" name-en="CHAN Hak-kan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳健波" name-en="CHAN Kin-por" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁美芬" name-en="Dr Priscilla LEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃國健" name-en="WONG Kwok-kin" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葉劉淑儀" name-en="Mrs Regina IP" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="謝偉俊" name-en="Paul TSE" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁國雄" name-en="LEUNG Kwok-hung" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="毛孟靜" name-en="Claudia MO" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="田北辰" name-en="Michael TIEN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何俊賢" name-en="Steven HO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="易志明" name-en="Frankie YICK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="胡志偉" name-en="WU Chi-wai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚思榮" name-en="YIU Si-wing" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="馬逢國" name-en="MA Fung-kwok" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="莫乃光" name-en="Charles Peter MOK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳志全" name-en="CHAN Chi-chuen" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳恒鑌" name-en="CHAN Han-pan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁志祥" name-en="LEUNG Che-cheung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁繼昌" name-en="Kenneth LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="麥美娟" name-en="Alice MAK" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="郭家麒" name-en="Dr KWOK Ka-ki" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭偉强" name-en="KWOK Wai-keung" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="郭榮鏗" name-en="Dennis KWOK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張華峰" name-en="Christopher CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張超雄" name-en="Dr Fernando CHEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃碧雲" name-en="Dr Helena WONG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葉建源" name-en="IP Kin-yuen" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葛珮帆" name-en="Dr Elizabeth QUAT" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="廖長江" name-en="Martin LIAO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="潘兆平" name-en="POON Siu-ping" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="蔣麗芸" name-en="Dr CHIANG Lai-wan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="盧偉國" name-en="Ir Dr LO Wai-kwok" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="鍾國斌" name-en="CHUNG Kwok-pan" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="楊岳橋" name-en="Alvin YEUNG" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="尹兆堅" name-en="Andrew WAN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="朱凱廸" name-en="CHU Hoi-dick" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="吳永嘉" name-en="Jimmy NG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何君堯" name-en="Dr Junius HO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何啟明" name-en="HO Kai-ming" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="林卓廷" name-en="LAM Cheuk-ting" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="周浩鼎" name-en="Holden CHOW" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家輝" name-en="SHIU Ka-fai" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家臻" name-en="SHIU Ka-chun" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="柯創盛" name-en="Wilson OR" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="容海恩" name-en="YUNG Hoi-yan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳沛然" name-en="Dr Pierre CHAN" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳振英" name-en="CHAN Chun-ying" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳淑莊" name-en="Tanya CHAN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張國鈞" name-en="CHEUNG Kwok-kwan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="許智峯" name-en="HUI Chi-fung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陸頌雄" name-en="LUK Chung-hung" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉國勳" name-en="LAU Kwok-fan" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉業強" name-en="Kenneth LAU" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄭松泰" name-en="Dr CHENG Chung-tai" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="鄺俊宇" name-en="KWONG Chun-yu" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="譚文豪" name-en="Jeremy TAM" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="羅冠聰" name-en="Nathan LAW" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚松炎" name-en="Dr YIU Chung-yim" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉小麗" name-en="Dr LAU Siu-lai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+      </individual-votes>
+    </vote>
+    <vote number="7">
+      <vote-date>24/05/2017</vote-date>
+      <vote-time>15:01:30</vote-time>
+      <motion-ch>《私營骨灰安置所條例草案》 - 全體委員會審議階段 - 食物及衞生局局長的修正案 - 附表1至4及7，以及附表5相關條文</motion-ch>
+      <motion-en>PRIVATE COLUMBARIA BILL - COMMITTEE STAGE - SECRETARY FOR FOOD AND HEALTH’S AMENDMENTS - SCHEDULES 1 TO 4 AND 7 AND THE RELEVANT PROVISIONS OF SCHEDULE 5</motion-en>
+      <mover-ch>食物及衞生局局長</mover-ch>
+      <mover-en>Secretary for Food and Health</mover-en>
+      <mover-type>Public Officer</mover-type>
+      <vote-separate-mechanism>No</vote-separate-mechanism>
+      <vote-summary>
+        <overall>
+          <present-count>42</present-count>
+          <vote-count>41</vote-count>
+          <yes-count>41</yes-count>
+          <no-count>0</no-count>
+          <abstain-count>0</abstain-count>
+          <result>Passed</result>
+        </overall>
+      </vote-summary>
+      <individual-votes>
+        <member name-ch="梁君彥" name-en="Andrew LEUNG" constituency="Functional">
+          <vote>Present</vote>
+        </member>
+        <member name-ch="涂謹申" name-en="James TO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁耀忠" name-en="LEUNG Yiu-chung" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="石禮謙" name-en="Abraham SHEK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張宇人" name-en="Tommy CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="李國麟" name-en="Prof Joseph LEE" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="林健鋒" name-en="Jeffrey LAM" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃定光" name-en="WONG Ting-kwong" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="李慧琼" name-en="Starry LEE" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳克勤" name-en="CHAN Hak-kan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳健波" name-en="CHAN Kin-por" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁美芬" name-en="Dr Priscilla LEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃國健" name-en="WONG Kwok-kin" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葉劉淑儀" name-en="Mrs Regina IP" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="謝偉俊" name-en="Paul TSE" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁國雄" name-en="LEUNG Kwok-hung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="毛孟靜" name-en="Claudia MO" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="田北辰" name-en="Michael TIEN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何俊賢" name-en="Steven HO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="易志明" name-en="Frankie YICK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="胡志偉" name-en="WU Chi-wai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚思榮" name-en="YIU Si-wing" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="馬逢國" name-en="MA Fung-kwok" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="莫乃光" name-en="Charles Peter MOK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳志全" name-en="CHAN Chi-chuen" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳恒鑌" name-en="CHAN Han-pan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁志祥" name-en="LEUNG Che-cheung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁繼昌" name-en="Kenneth LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="麥美娟" name-en="Alice MAK" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="郭家麒" name-en="Dr KWOK Ka-ki" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭偉强" name-en="KWOK Wai-keung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭榮鏗" name-en="Dennis KWOK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張華峰" name-en="Christopher CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張超雄" name-en="Dr Fernando CHEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃碧雲" name-en="Dr Helena WONG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葉建源" name-en="IP Kin-yuen" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葛珮帆" name-en="Dr Elizabeth QUAT" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="廖長江" name-en="Martin LIAO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="潘兆平" name-en="POON Siu-ping" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="蔣麗芸" name-en="Dr CHIANG Lai-wan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="盧偉國" name-en="Ir Dr LO Wai-kwok" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="鍾國斌" name-en="CHUNG Kwok-pan" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="楊岳橋" name-en="Alvin YEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="尹兆堅" name-en="Andrew WAN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="朱凱廸" name-en="CHU Hoi-dick" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="吳永嘉" name-en="Jimmy NG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何君堯" name-en="Dr Junius HO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何啟明" name-en="HO Kai-ming" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="林卓廷" name-en="LAM Cheuk-ting" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="周浩鼎" name-en="Holden CHOW" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家輝" name-en="SHIU Ka-fai" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家臻" name-en="SHIU Ka-chun" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="柯創盛" name-en="Wilson OR" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="容海恩" name-en="YUNG Hoi-yan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳沛然" name-en="Dr Pierre CHAN" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳振英" name-en="CHAN Chun-ying" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳淑莊" name-en="Tanya CHAN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張國鈞" name-en="CHEUNG Kwok-kwan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="許智峯" name-en="HUI Chi-fung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陸頌雄" name-en="LUK Chung-hung" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉國勳" name-en="LAU Kwok-fan" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉業強" name-en="Kenneth LAU" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄭松泰" name-en="Dr CHENG Chung-tai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄺俊宇" name-en="KWONG Chun-yu" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="譚文豪" name-en="Jeremy TAM" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="羅冠聰" name-en="Nathan LAW" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚松炎" name-en="Dr YIU Chung-yim" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉小麗" name-en="Dr LAU Siu-lai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+      </individual-votes>
+    </vote>
+    <vote number="8">
+      <vote-date>24/05/2017</vote-date>
+      <vote-time>15:07:12</vote-time>
+      <motion-ch>《私營骨灰安置所條例草案》 - 全體委員會審議階段 - 經修正的附表1至4及7納入條例草案</motion-ch>
+      <motion-en>PRIVATE COLUMBARIA BILL - COMMITTEE STAGE - SCHEDULES 1 TO 4 AND 7 AS AMENDED STAND PART OF THE BILL</motion-en>
+      <mover-ch>食物及衞生局局長</mover-ch>
+      <mover-en>Secretary for Food and Health</mover-en>
+      <mover-type>Public Officer</mover-type>
+      <vote-separate-mechanism>No</vote-separate-mechanism>
+      <vote-summary>
+        <overall>
+          <present-count>39</present-count>
+          <vote-count>38</vote-count>
+          <yes-count>38</yes-count>
+          <no-count>0</no-count>
+          <abstain-count>0</abstain-count>
+          <result>Passed</result>
+        </overall>
+      </vote-summary>
+      <individual-votes>
+        <member name-ch="梁君彥" name-en="Andrew LEUNG" constituency="Functional">
+          <vote>Present</vote>
+        </member>
+        <member name-ch="涂謹申" name-en="James TO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁耀忠" name-en="LEUNG Yiu-chung" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="石禮謙" name-en="Abraham SHEK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張宇人" name-en="Tommy CHEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="李國麟" name-en="Prof Joseph LEE" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="林健鋒" name-en="Jeffrey LAM" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃定光" name-en="WONG Ting-kwong" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="李慧琼" name-en="Starry LEE" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳克勤" name-en="CHAN Hak-kan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳健波" name-en="CHAN Kin-por" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁美芬" name-en="Dr Priscilla LEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃國健" name-en="WONG Kwok-kin" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葉劉淑儀" name-en="Mrs Regina IP" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="謝偉俊" name-en="Paul TSE" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁國雄" name-en="LEUNG Kwok-hung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="毛孟靜" name-en="Claudia MO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="田北辰" name-en="Michael TIEN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何俊賢" name-en="Steven HO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="易志明" name-en="Frankie YICK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="胡志偉" name-en="WU Chi-wai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚思榮" name-en="YIU Si-wing" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="馬逢國" name-en="MA Fung-kwok" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="莫乃光" name-en="Charles Peter MOK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳志全" name-en="CHAN Chi-chuen" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳恒鑌" name-en="CHAN Han-pan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁志祥" name-en="LEUNG Che-cheung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁繼昌" name-en="Kenneth LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="麥美娟" name-en="Alice MAK" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="郭家麒" name-en="Dr KWOK Ka-ki" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭偉强" name-en="KWOK Wai-keung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭榮鏗" name-en="Dennis KWOK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張華峰" name-en="Christopher CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張超雄" name-en="Dr Fernando CHEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃碧雲" name-en="Dr Helena WONG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葉建源" name-en="IP Kin-yuen" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葛珮帆" name-en="Dr Elizabeth QUAT" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="廖長江" name-en="Martin LIAO" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="潘兆平" name-en="POON Siu-ping" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="蔣麗芸" name-en="Dr CHIANG Lai-wan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="盧偉國" name-en="Ir Dr LO Wai-kwok" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="鍾國斌" name-en="CHUNG Kwok-pan" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="楊岳橋" name-en="Alvin YEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="尹兆堅" name-en="Andrew WAN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="朱凱廸" name-en="CHU Hoi-dick" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="吳永嘉" name-en="Jimmy NG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="何君堯" name-en="Dr Junius HO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何啟明" name-en="HO Kai-ming" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="林卓廷" name-en="LAM Cheuk-ting" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="周浩鼎" name-en="Holden CHOW" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家輝" name-en="SHIU Ka-fai" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家臻" name-en="SHIU Ka-chun" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="柯創盛" name-en="Wilson OR" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="容海恩" name-en="YUNG Hoi-yan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳沛然" name-en="Dr Pierre CHAN" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳振英" name-en="CHAN Chun-ying" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳淑莊" name-en="Tanya CHAN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張國鈞" name-en="CHEUNG Kwok-kwan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="許智峯" name-en="HUI Chi-fung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陸頌雄" name-en="LUK Chung-hung" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉國勳" name-en="LAU Kwok-fan" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉業強" name-en="Kenneth LAU" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄭松泰" name-en="Dr CHENG Chung-tai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄺俊宇" name-en="KWONG Chun-yu" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="譚文豪" name-en="Jeremy TAM" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="羅冠聰" name-en="Nathan LAW" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚松炎" name-en="Dr YIU Chung-yim" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉小麗" name-en="Dr LAU Siu-lai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+      </individual-votes>
+    </vote>
+    <vote number="9">
+      <vote-date>25/05/2017</vote-date>
+      <vote-time>13:02:11</vote-time>
+      <motion-ch>《私營骨灰安置所條例草案》 - 全體委員會審議階段 - 食物及衞生局局長的第一組修正案 - 附表5第6(2)條</motion-ch>
+      <motion-en>PRIVATE COLUMBARIA BILL - COMMITTEE STAGE - SECRETARY FOR FOOD AND HEALTH’S FIRST GROUP OF AMENDMENTS - SECTION 6(2) OF SCHEDULE 5</motion-en>
+      <mover-ch>食物及衞生局局長</mover-ch>
+      <mover-en>Secretary for Food and Health</mover-en>
+      <mover-type>Public Officer</mover-type>
+      <vote-separate-mechanism>No</vote-separate-mechanism>
+      <vote-summary>
+        <overall>
+          <present-count>43</present-count>
+          <vote-count>42</vote-count>
+          <yes-count>38</yes-count>
+          <no-count>0</no-count>
+          <abstain-count>4</abstain-count>
+          <result>Passed</result>
+        </overall>
+      </vote-summary>
+      <individual-votes>
+        <member name-ch="梁君彥" name-en="Andrew LEUNG" constituency="Functional">
+          <vote>Present</vote>
+        </member>
+        <member name-ch="涂謹申" name-en="James TO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁耀忠" name-en="LEUNG Yiu-chung" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="石禮謙" name-en="Abraham SHEK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張宇人" name-en="Tommy CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="李國麟" name-en="Prof Joseph LEE" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="林健鋒" name-en="Jeffrey LAM" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃定光" name-en="WONG Ting-kwong" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="李慧琼" name-en="Starry LEE" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳克勤" name-en="CHAN Hak-kan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳健波" name-en="CHAN Kin-por" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁美芬" name-en="Dr Priscilla LEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃國健" name-en="WONG Kwok-kin" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葉劉淑儀" name-en="Mrs Regina IP" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="謝偉俊" name-en="Paul TSE" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁國雄" name-en="LEUNG Kwok-hung" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="毛孟靜" name-en="Claudia MO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="田北辰" name-en="Michael TIEN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何俊賢" name-en="Steven HO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="易志明" name-en="Frankie YICK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="胡志偉" name-en="WU Chi-wai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚思榮" name-en="YIU Si-wing" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="馬逢國" name-en="MA Fung-kwok" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="莫乃光" name-en="Charles Peter MOK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳志全" name-en="CHAN Chi-chuen" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="陳恒鑌" name-en="CHAN Han-pan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁志祥" name-en="LEUNG Che-cheung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁繼昌" name-en="Kenneth LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="麥美娟" name-en="Alice MAK" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭家麒" name-en="Dr KWOK Ka-ki" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="郭偉强" name-en="KWOK Wai-keung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭榮鏗" name-en="Dennis KWOK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張華峰" name-en="Christopher CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張超雄" name-en="Dr Fernando CHEUNG" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="黃碧雲" name-en="Dr Helena WONG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葉建源" name-en="IP Kin-yuen" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葛珮帆" name-en="Dr Elizabeth QUAT" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="廖長江" name-en="Martin LIAO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="潘兆平" name-en="POON Siu-ping" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="蔣麗芸" name-en="Dr CHIANG Lai-wan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="盧偉國" name-en="Ir Dr LO Wai-kwok" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="鍾國斌" name-en="CHUNG Kwok-pan" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="楊岳橋" name-en="Alvin YEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="尹兆堅" name-en="Andrew WAN" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="朱凱廸" name-en="CHU Hoi-dick" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="吳永嘉" name-en="Jimmy NG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何君堯" name-en="Dr Junius HO" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="何啟明" name-en="HO Kai-ming" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="林卓廷" name-en="LAM Cheuk-ting" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="周浩鼎" name-en="Holden CHOW" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家輝" name-en="SHIU Ka-fai" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家臻" name-en="SHIU Ka-chun" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="柯創盛" name-en="Wilson OR" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="容海恩" name-en="YUNG Hoi-yan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳沛然" name-en="Dr Pierre CHAN" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳振英" name-en="CHAN Chun-ying" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳淑莊" name-en="Tanya CHAN" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張國鈞" name-en="CHEUNG Kwok-kwan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="許智峯" name-en="HUI Chi-fung" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陸頌雄" name-en="LUK Chung-hung" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉國勳" name-en="LAU Kwok-fan" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉業強" name-en="Kenneth LAU" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄭松泰" name-en="Dr CHENG Chung-tai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄺俊宇" name-en="KWONG Chun-yu" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="譚文豪" name-en="Jeremy TAM" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="羅冠聰" name-en="Nathan LAW" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚松炎" name-en="Dr YIU Chung-yim" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉小麗" name-en="Dr LAU Siu-lai" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+      </individual-votes>
+    </vote>
+    <vote number="10">
+      <vote-date>25/05/2017</vote-date>
+      <vote-time>13:08:45</vote-time>
+      <motion-ch>《私營骨灰安置所條例草案》 - 全體委員會審議階段 - 張超雄議員的修正案 - 附表5第6(2)條</motion-ch>
+      <motion-en>PRIVATE COLUMBARIA BILL - COMMITTEE STAGE - DR HON FERNANDO CHEUNG’S AMENDMENT - SECTION 6(2) OF SCHEDULE 5</motion-en>
+      <mover-ch>張超雄</mover-ch>
+      <mover-en>Dr Fernando CHEUNG</mover-en>
+      <mover-type>Member</mover-type>
+      <vote-separate-mechanism>Yes</vote-separate-mechanism>
+      <vote-summary>
+        <functional-constituency>
+          <present-count>23</present-count>
+          <vote-count>22</vote-count>
+          <yes-count>5</yes-count>
+          <no-count>16</no-count>
+          <abstain-count>1</abstain-count>
+          <result>Negatived</result>
+        </functional-constituency>
+        <geographical-constituency>
+          <present-count>26</present-count>
+          <vote-count>26</vote-count>
+          <yes-count>13</yes-count>
+          <no-count>12</no-count>
+          <abstain-count>1</abstain-count>
+          <result>Negatived</result>
+        </geographical-constituency>
+        <overall>
+          <present-count />
+          <vote-count />
+          <yes-count />
+          <no-count />
+          <abstain-count />
+          <result>Negatived</result>
+        </overall>
+      </vote-summary>
+      <individual-votes>
+        <member name-ch="梁君彥" name-en="Andrew LEUNG" constituency="Functional">
+          <vote>Present</vote>
+        </member>
+        <member name-ch="涂謹申" name-en="James TO" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="梁耀忠" name-en="LEUNG Yiu-chung" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="石禮謙" name-en="Abraham SHEK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張宇人" name-en="Tommy CHEUNG" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="李國麟" name-en="Prof Joseph LEE" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="林健鋒" name-en="Jeffrey LAM" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="黃定光" name-en="WONG Ting-kwong" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="李慧琼" name-en="Starry LEE" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="陳克勤" name-en="CHAN Hak-kan" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="陳健波" name-en="CHAN Kin-por" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁美芬" name-en="Dr Priscilla LEUNG" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="黃國健" name-en="WONG Kwok-kin" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葉劉淑儀" name-en="Mrs Regina IP" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="謝偉俊" name-en="Paul TSE" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="梁國雄" name-en="LEUNG Kwok-hung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="毛孟靜" name-en="Claudia MO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="田北辰" name-en="Michael TIEN" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="何俊賢" name-en="Steven HO" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="易志明" name-en="Frankie YICK" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="胡志偉" name-en="WU Chi-wai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚思榮" name-en="YIU Si-wing" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="馬逢國" name-en="MA Fung-kwok" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="莫乃光" name-en="Charles Peter MOK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳志全" name-en="CHAN Chi-chuen" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳恒鑌" name-en="CHAN Han-pan" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="梁志祥" name-en="LEUNG Che-cheung" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="梁繼昌" name-en="Kenneth LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="麥美娟" name-en="Alice MAK" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="郭家麒" name-en="Dr KWOK Ka-ki" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭偉强" name-en="KWOK Wai-keung" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="郭榮鏗" name-en="Dennis KWOK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張華峰" name-en="Christopher CHEUNG" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="張超雄" name-en="Dr Fernando CHEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃碧雲" name-en="Dr Helena WONG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葉建源" name-en="IP Kin-yuen" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葛珮帆" name-en="Dr Elizabeth QUAT" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="廖長江" name-en="Martin LIAO" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="潘兆平" name-en="POON Siu-ping" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="蔣麗芸" name-en="Dr CHIANG Lai-wan" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="盧偉國" name-en="Ir Dr LO Wai-kwok" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="鍾國斌" name-en="CHUNG Kwok-pan" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="楊岳橋" name-en="Alvin YEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="尹兆堅" name-en="Andrew WAN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="朱凱廸" name-en="CHU Hoi-dick" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="吳永嘉" name-en="Jimmy NG" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="何君堯" name-en="Dr Junius HO" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="何啟明" name-en="HO Kai-ming" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="林卓廷" name-en="LAM Cheuk-ting" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="周浩鼎" name-en="Holden CHOW" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="邵家輝" name-en="SHIU Ka-fai" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="邵家臻" name-en="SHIU Ka-chun" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="柯創盛" name-en="Wilson OR" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="容海恩" name-en="YUNG Hoi-yan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳沛然" name-en="Dr Pierre CHAN" constituency="Functional">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="陳振英" name-en="CHAN Chun-ying" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="陳淑莊" name-en="Tanya CHAN" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張國鈞" name-en="CHEUNG Kwok-kwan" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="許智峯" name-en="HUI Chi-fung" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陸頌雄" name-en="LUK Chung-hung" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉國勳" name-en="LAU Kwok-fan" constituency="Functional">
+          <vote>No</vote>
+        </member>
+        <member name-ch="劉業強" name-en="Kenneth LAU" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄭松泰" name-en="Dr CHENG Chung-tai" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="鄺俊宇" name-en="KWONG Chun-yu" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="譚文豪" name-en="Jeremy TAM" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="羅冠聰" name-en="Nathan LAW" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚松炎" name-en="Dr YIU Chung-yim" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉小麗" name-en="Dr LAU Siu-lai" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+      </individual-votes>
+    </vote>
+    <vote number="11">
+      <vote-date>25/05/2017</vote-date>
+      <vote-time>13:15:09</vote-time>
+      <motion-ch>《私營骨灰安置所條例草案》 - 全體委員會審議階段 - 食物及衞生局局長的第二組修正案 - 附表5第9(5)條</motion-ch>
+      <motion-en>PRIVATE COLUMBARIA BILL - COMMITTEE STAGE - SECRETARY FOR FOOD AND HEALTH’S SECOND GROUP OF AMENDMENTS - SECTION 9(5) OF SCHEDULE 5</motion-en>
+      <mover-ch>食物及衞生局局長</mover-ch>
+      <mover-en>Secretary for Food and Health</mover-en>
+      <mover-type>Public Officer</mover-type>
+      <vote-separate-mechanism>No</vote-separate-mechanism>
+      <vote-summary>
+        <overall>
+          <present-count>50</present-count>
+          <vote-count>49</vote-count>
+          <yes-count>37</yes-count>
+          <no-count>0</no-count>
+          <abstain-count>12</abstain-count>
+          <result>Passed</result>
+        </overall>
+      </vote-summary>
+      <individual-votes>
+        <member name-ch="梁君彥" name-en="Andrew LEUNG" constituency="Functional">
+          <vote>Present</vote>
+        </member>
+        <member name-ch="涂謹申" name-en="James TO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁耀忠" name-en="LEUNG Yiu-chung" constituency="Functional">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="石禮謙" name-en="Abraham SHEK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張宇人" name-en="Tommy CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="李國麟" name-en="Prof Joseph LEE" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="林健鋒" name-en="Jeffrey LAM" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃定光" name-en="WONG Ting-kwong" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="李慧琼" name-en="Starry LEE" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳克勤" name-en="CHAN Hak-kan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳健波" name-en="CHAN Kin-por" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁美芬" name-en="Dr Priscilla LEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃國健" name-en="WONG Kwok-kin" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葉劉淑儀" name-en="Mrs Regina IP" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="謝偉俊" name-en="Paul TSE" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁國雄" name-en="LEUNG Kwok-hung" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="毛孟靜" name-en="Claudia MO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="田北辰" name-en="Michael TIEN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何俊賢" name-en="Steven HO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="易志明" name-en="Frankie YICK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="胡志偉" name-en="WU Chi-wai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚思榮" name-en="YIU Si-wing" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="馬逢國" name-en="MA Fung-kwok" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="莫乃光" name-en="Charles Peter MOK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳志全" name-en="CHAN Chi-chuen" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="陳恒鑌" name-en="CHAN Han-pan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁志祥" name-en="LEUNG Che-cheung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁繼昌" name-en="Kenneth LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="麥美娟" name-en="Alice MAK" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭家麒" name-en="Dr KWOK Ka-ki" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭偉强" name-en="KWOK Wai-keung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭榮鏗" name-en="Dennis KWOK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張華峰" name-en="Christopher CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張超雄" name-en="Dr Fernando CHEUNG" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="黃碧雲" name-en="Dr Helena WONG" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="葉建源" name-en="IP Kin-yuen" constituency="Functional">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="葛珮帆" name-en="Dr Elizabeth QUAT" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="廖長江" name-en="Martin LIAO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="潘兆平" name-en="POON Siu-ping" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="蔣麗芸" name-en="Dr CHIANG Lai-wan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="盧偉國" name-en="Ir Dr LO Wai-kwok" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="鍾國斌" name-en="CHUNG Kwok-pan" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="楊岳橋" name-en="Alvin YEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="尹兆堅" name-en="Andrew WAN" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="朱凱廸" name-en="CHU Hoi-dick" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="吳永嘉" name-en="Jimmy NG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何君堯" name-en="Dr Junius HO" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="何啟明" name-en="HO Kai-ming" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="林卓廷" name-en="LAM Cheuk-ting" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="周浩鼎" name-en="Holden CHOW" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家輝" name-en="SHIU Ka-fai" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家臻" name-en="SHIU Ka-chun" constituency="Functional">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="柯創盛" name-en="Wilson OR" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="容海恩" name-en="YUNG Hoi-yan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳沛然" name-en="Dr Pierre CHAN" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳振英" name-en="CHAN Chun-ying" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳淑莊" name-en="Tanya CHAN" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張國鈞" name-en="CHEUNG Kwok-kwan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="許智峯" name-en="HUI Chi-fung" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+        <member name-ch="陸頌雄" name-en="LUK Chung-hung" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉國勳" name-en="LAU Kwok-fan" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉業強" name-en="Kenneth LAU" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄭松泰" name-en="Dr CHENG Chung-tai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄺俊宇" name-en="KWONG Chun-yu" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="譚文豪" name-en="Jeremy TAM" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="羅冠聰" name-en="Nathan LAW" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚松炎" name-en="Dr YIU Chung-yim" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉小麗" name-en="Dr LAU Siu-lai" constituency="Geographical">
+          <vote>Abstain</vote>
+        </member>
+      </individual-votes>
+    </vote>
+    <vote number="12">
+      <vote-date>25/05/2017</vote-date>
+      <vote-time>13:22:04</vote-time>
+      <motion-ch>《私營骨灰安置所條例草案》 - 三讀</motion-ch>
+      <motion-en>PRIVATE COLUMBARIA BILL - THIRD READING</motion-en>
+      <mover-ch>食物及衞生局局長</mover-ch>
+      <mover-en>Secretary for Food and Health</mover-en>
+      <mover-type>Public Officer</mover-type>
+      <vote-separate-mechanism>No</vote-separate-mechanism>
+      <vote-summary>
+        <overall>
+          <present-count>52</present-count>
+          <vote-count>51</vote-count>
+          <yes-count>50</yes-count>
+          <no-count>1</no-count>
+          <abstain-count>0</abstain-count>
+          <result>Passed</result>
+        </overall>
+      </vote-summary>
+      <individual-votes>
+        <member name-ch="梁君彥" name-en="Andrew LEUNG" constituency="Functional">
+          <vote>Present</vote>
+        </member>
+        <member name-ch="涂謹申" name-en="James TO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁耀忠" name-en="LEUNG Yiu-chung" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="石禮謙" name-en="Abraham SHEK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張宇人" name-en="Tommy CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="李國麟" name-en="Prof Joseph LEE" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="林健鋒" name-en="Jeffrey LAM" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃定光" name-en="WONG Ting-kwong" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="李慧琼" name-en="Starry LEE" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳克勤" name-en="CHAN Hak-kan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳健波" name-en="CHAN Kin-por" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁美芬" name-en="Dr Priscilla LEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃國健" name-en="WONG Kwok-kin" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="葉劉淑儀" name-en="Mrs Regina IP" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="謝偉俊" name-en="Paul TSE" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁國雄" name-en="LEUNG Kwok-hung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="毛孟靜" name-en="Claudia MO" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="田北辰" name-en="Michael TIEN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何俊賢" name-en="Steven HO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="易志明" name-en="Frankie YICK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="胡志偉" name-en="WU Chi-wai" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚思榮" name-en="YIU Si-wing" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="馬逢國" name-en="MA Fung-kwok" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="莫乃光" name-en="Charles Peter MOK" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳志全" name-en="CHAN Chi-chuen" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳恒鑌" name-en="CHAN Han-pan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="梁志祥" name-en="LEUNG Che-cheung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="梁繼昌" name-en="Kenneth LEUNG" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="麥美娟" name-en="Alice MAK" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭家麒" name-en="Dr KWOK Ka-ki" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭偉强" name-en="KWOK Wai-keung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="郭榮鏗" name-en="Dennis KWOK" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張華峰" name-en="Christopher CHEUNG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="張超雄" name-en="Dr Fernando CHEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="黃碧雲" name-en="Dr Helena WONG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葉建源" name-en="IP Kin-yuen" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="葛珮帆" name-en="Dr Elizabeth QUAT" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="廖長江" name-en="Martin LIAO" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="潘兆平" name-en="POON Siu-ping" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="蔣麗芸" name-en="Dr CHIANG Lai-wan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="盧偉國" name-en="Ir Dr LO Wai-kwok" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="鍾國斌" name-en="CHUNG Kwok-pan" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="楊岳橋" name-en="Alvin YEUNG" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="尹兆堅" name-en="Andrew WAN" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="朱凱廸" name-en="CHU Hoi-dick" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="吳永嘉" name-en="Jimmy NG" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="何君堯" name-en="Dr Junius HO" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="何啟明" name-en="HO Kai-ming" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="林卓廷" name-en="LAM Cheuk-ting" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="周浩鼎" name-en="Holden CHOW" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家輝" name-en="SHIU Ka-fai" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="邵家臻" name-en="SHIU Ka-chun" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="柯創盛" name-en="Wilson OR" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="容海恩" name-en="YUNG Hoi-yan" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="陳沛然" name-en="Dr Pierre CHAN" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳振英" name-en="CHAN Chun-ying" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陳淑莊" name-en="Tanya CHAN" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="張國鈞" name-en="CHEUNG Kwok-kwan" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="許智峯" name-en="HUI Chi-fung" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="陸頌雄" name-en="LUK Chung-hung" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉國勳" name-en="LAU Kwok-fan" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="劉業強" name-en="Kenneth LAU" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="鄭松泰" name-en="Dr CHENG Chung-tai" constituency="Geographical">
+          <vote>No</vote>
+        </member>
+        <member name-ch="鄺俊宇" name-en="KWONG Chun-yu" constituency="Functional">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="譚文豪" name-en="Jeremy TAM" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+        <member name-ch="羅冠聰" name-en="Nathan LAW" constituency="Geographical">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="姚松炎" name-en="Dr YIU Chung-yim" constituency="Functional">
+          <vote>Absent</vote>
+        </member>
+        <member name-ch="劉小麗" name-en="Dr LAU Siu-lai" constituency="Geographical">
+          <vote>Yes</vote>
+        </member>
+      </individual-votes>
+    </vote>
+  </meeting>
+</legcohk-vote>
